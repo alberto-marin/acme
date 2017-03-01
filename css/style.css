@@ -26,7 +26,7 @@ body {
   padding-left: 2em;
   padding-right: 2em;
   color: #fff;
-  vertical-align: middle;  
+  vertical-align: middle;
 }
 /*
 -------------------------------------------------
@@ -116,4 +116,34 @@ header a:hover {
   height: 2.4em;
   width: 25em;
   border: 0;
+}
+/*
+-------------------------------------------------
+                     BOXES
+-------------------------------------------------
+*/
+#boxes {
+  margin-top: 2em;
+}
+
+#boxes .box {
+  float: left;
+  width: 30%;
+  padding: 1em;
+  text-align: center;
+}
+
+#boxes .box img {
+  width: 90px;
+}
+/*
+-------------------------------------------------
+                     FOOTER
+-------------------------------------------------
+*/
+footer {
+  padding: 2em;
+  margin-top: 2em;
+  color: #fff;
+  background-color: #e8491d;
 }
