@@ -169,6 +169,23 @@ aside#sidebar {
 }
 /*
 -------------------------------------------------
+                     SERVICES
+-------------------------------------------------
+*/
+ul#services li {
+  list-style: none;
+  padding: 2em;
+  border: 1px solid #ccc;
+  margin-bottom: .5em;
+  background-color: #e6e6e6;
+}
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+  width: 90%;
+  padding: .5em;
+  margin-bottom: 1em;
+}
+/*
+-------------------------------------------------
                      FOOTER
 -------------------------------------------------
 */
